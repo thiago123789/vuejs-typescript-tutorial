@@ -2,6 +2,30 @@
 
 > Tutorial Project - Adding Typescript to Vuejs Project
 
+## How Config TypeScript to Project ?
+
+### First Step
+
+> Install dependencies ts-loader, typescript, vue-class-component, vue-property-decorator. Run below comands inside the project:
+
+```npm install typescript ts-loader --save-dev```
+
+```npm install vue-property-decorator vue-class-component --save```
+
+**Note: ts-loader must have the same major version of webpack.** 
+
+### Second Step
+
+> Change all file extensions inside ```src``` folder, from ```.js``` to ```.ts```  
+
+Exemple: ```main.js``` to ```main.ts```
+
+### Thrid Step
+
+> 
+
+To be continue...
+
 ## Build Setup
 
 ``` bash
